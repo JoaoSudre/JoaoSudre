@@ -13,8 +13,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="425" src="https://narutobattlescreen-js.netlify.app/fightingbackground1.gif"  />
+  <img height="300" src="https://narutobattlescreen-js.netlify.app/fightingbackground1.gif"  />
 </div>
 
 ###
