@@ -1,17 +1,9 @@
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Sudré! A Computer Information Systems student from Brazil.
+  Hi 👋, I'm Sudré! A mobile dev from Brazil.
 
   - 🔭 I am looking for my first job opportunity.
 </p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 20 years old, currently living in Brazil. I I like sports, more like football, and I'm a Cruzeiro and Bayern fan. I like games, series, films and anime.
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Sudre_/)
-</details>
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3osudr%C3%A9/)
