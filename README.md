@@ -1,8 +1,7 @@
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Sudré! A mobile dev from Brazil.
+  Hi 👋, I'm Sudré! A mobile dev from Brazil. 🔭
 
-  - 🔭 I am looking for my first job opportunity.
 </p>
 
 <!-- Links -->
