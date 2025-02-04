@@ -13,8 +13,7 @@
 </p>
 
 ## Skills
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoSudre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=true&order=2" height="150" alt="languages graph"  />
+
 </div>
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
